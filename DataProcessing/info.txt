@@ -1,1 +1,1 @@
-
+This folder contains C# files that includes all the data processing such as authorization and database connection.
